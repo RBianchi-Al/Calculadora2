@@ -1,0 +1,1 @@
+{"version":3,"sources":["calculadora.css"],"names":[],"mappings":"AAAA,OACI,SAAU,CACV,oBACJ,CACA,iBACI,cAAe,CACf,SAAU,CACV,eACJ","file":"main.81ed1671.chunk.css","sourcesContent":["button {\r\n    width: 90%;\r\n    margin: 4px !important;\r\n}\r\ninput[type=text]{\r\n    margin-top: 3px;\r\n    width: 96%;\r\n    margin-left: 6px;\r\n}\r\n"]}
