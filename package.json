@@ -2,7 +2,7 @@
   "name": "calculadora",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rbianchi-al.github.io/Conversor-de-moedas/",
+  "homepage": "https://rbianchi-al.github.io/Calculadora2/",
   "dependencies": {
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
