@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Conversor-de-moedas/static/css/main.81ed1671.chunk.css",
-    "main.js": "/Conversor-de-moedas/static/js/main.fe9c040e.chunk.js",
-    "main.js.map": "/Conversor-de-moedas/static/js/main.fe9c040e.chunk.js.map",
-    "runtime-main.js": "/Conversor-de-moedas/static/js/runtime-main.165bcc92.js",
-    "runtime-main.js.map": "/Conversor-de-moedas/static/js/runtime-main.165bcc92.js.map",
-    "static/css/2.de424728.chunk.css": "/Conversor-de-moedas/static/css/2.de424728.chunk.css",
-    "static/js/2.f1b1d6fc.chunk.js": "/Conversor-de-moedas/static/js/2.f1b1d6fc.chunk.js",
-    "static/js/2.f1b1d6fc.chunk.js.map": "/Conversor-de-moedas/static/js/2.f1b1d6fc.chunk.js.map",
-    "index.html": "/Conversor-de-moedas/index.html",
-    "precache-manifest.8bd3839d6b6b3aa971988b8557508644.js": "/Conversor-de-moedas/precache-manifest.8bd3839d6b6b3aa971988b8557508644.js",
-    "service-worker.js": "/Conversor-de-moedas/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/Conversor-de-moedas/static/css/2.de424728.chunk.css.map",
-    "static/css/main.81ed1671.chunk.css.map": "/Conversor-de-moedas/static/css/main.81ed1671.chunk.css.map",
-    "static/js/2.f1b1d6fc.chunk.js.LICENSE.txt": "/Conversor-de-moedas/static/js/2.f1b1d6fc.chunk.js.LICENSE.txt"
+    "main.css": "/Calculadora2/static/css/main.81ed1671.chunk.css",
+    "main.js": "/Calculadora2/static/js/main.bf4a21e5.chunk.js",
+    "main.js.map": "/Calculadora2/static/js/main.bf4a21e5.chunk.js.map",
+    "runtime-main.js": "/Calculadora2/static/js/runtime-main.3a360ae0.js",
+    "runtime-main.js.map": "/Calculadora2/static/js/runtime-main.3a360ae0.js.map",
+    "static/css/2.de424728.chunk.css": "/Calculadora2/static/css/2.de424728.chunk.css",
+    "static/js/2.f1b1d6fc.chunk.js": "/Calculadora2/static/js/2.f1b1d6fc.chunk.js",
+    "static/js/2.f1b1d6fc.chunk.js.map": "/Calculadora2/static/js/2.f1b1d6fc.chunk.js.map",
+    "index.html": "/Calculadora2/index.html",
+    "precache-manifest.4f2a476d661269e22a974d4ee00539b0.js": "/Calculadora2/precache-manifest.4f2a476d661269e22a974d4ee00539b0.js",
+    "service-worker.js": "/Calculadora2/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Calculadora2/static/css/2.de424728.chunk.css.map",
+    "static/css/main.81ed1671.chunk.css.map": "/Calculadora2/static/css/main.81ed1671.chunk.css.map",
+    "static/js/2.f1b1d6fc.chunk.js.LICENSE.txt": "/Calculadora2/static/js/2.f1b1d6fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.165bcc92.js",
+    "static/js/runtime-main.3a360ae0.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.f1b1d6fc.chunk.js",
     "static/css/main.81ed1671.chunk.css",
-    "static/js/main.fe9c040e.chunk.js"
+    "static/js/main.bf4a21e5.chunk.js"
   ]
 }
